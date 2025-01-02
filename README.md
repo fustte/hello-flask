@@ -15,3 +15,13 @@ proporciona FLask. Este servidor no sirve para poner una
 aplicacion pública en internet en modo produccion. solamente
 sirve en el escenario en el que estamos desarrollamndo
 localmente nuestra aplicacion.
+
+## Variables de entorno
+
+- Linux / Mac
+  export FLASK_APP=hola
+  export FLASK_DEBUG=True
+
+- Windows
+  set FLASK_APP=hola
+  set FLASK_DEBUG=True
