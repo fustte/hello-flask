@@ -1,0 +1,1 @@
+#Aqui tengo toda la info de clase en pdf y otros archivos
